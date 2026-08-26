@@ -23,7 +23,7 @@ I am a **Full-Stack Developer** passionate about **AI Engineering** and **Softwa
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:zainstudentwork@gmail.com">
+  <a href="zainstudentwork@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32" alt="Email" />
   </a>
 </p>
